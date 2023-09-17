@@ -18,7 +18,7 @@ At first I was very excited to learn Web Development, especially considering the
 
 [![My Tools](https://skillicons.dev/icons?i=vscode,git,github)]()
 
-## I am intrested in learning 📚
+## I am interested in learning 📚
 
 [![My Interests](https://skillicons.dev/icons?i=ts,nextjs,tailwind)]()
 
