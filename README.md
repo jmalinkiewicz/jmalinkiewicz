@@ -20,10 +20,10 @@ At first I was very excited to learn Web Development, especially considering the
 
 ## I am intrested in learning 📚
 
-[![My Interests](https://skillicons.dev/icons?i=ts,nextjs,tailwind,flutter,bots)]()
+[![My Interests](https://skillicons.dev/icons?i=ts,nextjs,tailwind)]()
 
 ---
 
 ## Reach out to me 📫
 
-You can always DM me on discord: [@everythingwhat](./), or DM me on [Instagram](https://www.instagram.com/zinkroph).
+You can always DM me on discord: [@jmalinkiewicz](./), or DM me on [Instagram](https://www.instagram.com/zinkroph).
