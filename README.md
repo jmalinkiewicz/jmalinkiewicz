@@ -12,7 +12,7 @@ At first I was very excited to learn Web Development, especially considering the
 
 ## Technologies ⚙️
 
-[![My Skills](https://skillicons.dev/icons?i=swift,nodejs,js,react,html,css)]()
+[![My Skills](https://skillicons.dev/icons?i=swift,nodejs,js,react,tailwind,html,css)]()
 
 ## Tools ⚒️
 
@@ -20,7 +20,7 @@ At first I was very excited to learn Web Development, especially considering the
 
 ## I am interested in learning 📚
 
-[![My Interests](https://skillicons.dev/icons?i=ts,nextjs,tailwind)]()
+[![My Interests](https://skillicons.dev/icons?i=ts,nextjs)]()
 
 ---
 
