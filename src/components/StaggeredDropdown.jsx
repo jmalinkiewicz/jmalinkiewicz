@@ -12,7 +12,11 @@ const StaggeredDropDown = () => {
     <motion.div animate={open ? "open" : "closed"} className="relative">
       <button
         onClick={() => setOpen((pv) => !pv)}
-        className="flex items-center gap-2 px-3 py-2 rounded-md text-indigo-50 bg-indigo-500 hover:bg-indigo-500 transition-colors"
+        className={`flex items-center gap-2 px-3 py-2 rounded-md text-indigo-50 bg-asphalt dark:bg-calcium dark:text-black dark:hover:text-white dark:hover:bg-indigo-500 hover:bg-indigo-500 transition-colors ${
+          open
+            ? "bg-indigo-500 dark:bg-indigo-500 text-white dark:text-white"
+            : ""
+        }`}
       >
         <span className="font-medium text-sm">{theme} mode</span>
         <motion.span variants={iconVariants}>

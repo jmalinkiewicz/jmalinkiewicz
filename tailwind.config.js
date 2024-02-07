@@ -3,6 +3,11 @@ export default {
   content: ["./index.html", "./src/**/*.{js,ts,jsx,tsx}"],
   theme: {
     extend: {
+      colors: {
+        creme: "#fff5ea",
+        asphalt: "#24292f",
+        calcium: "#dbd6d0",
+      },
       dropShadow: {
         "envelope-4xl": [
           "0 35px 35px rgba(0, 0, 0, 0.40)",
