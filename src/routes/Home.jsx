@@ -4,7 +4,7 @@ import github from "../assets/github-mark.svg";
 function Home() {
   return (
     <div className="min-h-screen grid place-content-center">
-      <div className="dark:invert -z-10 transition-all flex flex-col space-y-10 md:flex-row md:space-y-0 md:space-x-10">
+      <div className="dark:invert z-10 transition-all flex flex-col space-y-10 md:flex-row md:space-y-0 md:space-x-10">
         <a href="https://github.com/jmalinkiewicz" target="_blank">
           {" "}
           <img
