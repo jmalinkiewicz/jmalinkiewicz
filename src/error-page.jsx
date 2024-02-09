@@ -1,9 +1,15 @@
+import { useEffect } from "react";
 import { useRouteError, Link } from "react-router-dom";
-import NeuButton from "./components/NeuButton";
+import setTheme from "./utils/setTheme";
+import NavigationButton from "./components/NavigationButton";
 
 function ErrorPage() {
   const error = useRouteError();
   console.error(error);
+
+  useEffect(() => {
+    setTheme();
+  });
 
   return (
     <div
@@ -14,7 +20,7 @@ function ErrorPage() {
       <h2 className="text-2xl">{error.statusText} 😔</h2>
       <div className="mt-4">
         <Link to="/">
-          <NeuButton text="Take me Home" />
+          <NavigationButton text={"Take me Home"} />
         </Link>
       </div>
     </div>

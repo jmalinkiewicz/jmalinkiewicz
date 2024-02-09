@@ -1,9 +1,9 @@
-import StaggeredDropDown from "./StaggeredDropdown";
+import ThemeDropdown from "./ThemeDropdown";
 
 function ThemeChange() {
   return (
-    <div className="absolute top-10 right-14 inline-block">
-      <StaggeredDropDown />
+    <div className="absolute top-8 right-8 md:right-14 inline-block">
+      <ThemeDropdown />
     </div>
   );
 }
