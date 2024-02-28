@@ -12,15 +12,15 @@ At first I was very excited to learn Web Development, especially considering the
 
 ## Technologies ⚙️
 
-[![My Skills](https://skillicons.dev/icons?i=swift,nodejs,js,ts,react,tailwind,html,css)]()
+[![My Skills](https://skillicons.dev/icons?i=swift,nodejs,js,ts,react,nextjs,redux,tailwind,html,css)]()
 
 ## Tools ⚒️
 
-[![My Tools](https://skillicons.dev/icons?i=vscode,git,github)]()
+[![My Tools](https://skillicons.dev/icons?i=vscode,git,github,vite)]()
 
 ## I am interested in learning 📚
 
-[![My Interests](https://skillicons.dev/icons?i=nextjs,figma)]()
+[![My Interests](https://skillicons.dev/icons?i=figma,vue)]()
 
 ---
 
